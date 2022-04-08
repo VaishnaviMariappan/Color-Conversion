@@ -112,12 +112,12 @@ cv2.destoryAllWindows()
 
 ### iv) Split and merge RGB Image
 ![output](./output4.png)
-![output](./output4.1.png)
+![output](./output4.1.jpg)
 <br>
 
 ### v) Split and merge HSV Image
 ![output](./output5.png)
-![output](./output5.1.png)
+![output](./output5.1.jpg)
 <br>
 
 
